@@ -1,7 +1,7 @@
 <template>
   <div class="block p-6 rounded-lg shadow-lg bg-white max-w-md m-auto" style="padding-top: 65px">
     <div class="text-center py-2 my-2">
-      <h1 class="text-3xl">Service Request Form and</h1>
+      <h1 class="text-3xl">Service Request Form </h1>
     </div>
     <hr />
     <form class="py-4 my-4">
