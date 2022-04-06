@@ -39,7 +39,7 @@
       <div class="form-group mb-6">
         <BaseInput
           v-bind="$attrs"
-          label="Employee #"
+          label="Employee IhhhhhhhhD"
           v-model="information.employeeID"
           types="text"
            :required="information.required"
@@ -79,7 +79,7 @@
           <option>Marketing</option>
           <option>IT</option>
           <option>Financial</option>
-          <option>PR</option>
+j          <option>PR</option>
         </select>
       </div>
 
